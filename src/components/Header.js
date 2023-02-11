@@ -7,7 +7,7 @@ const Header = ()=> {
                 <a className="Logo">CodeRay</a>
                 <div className="navlinks">
                     <li className="link"><a href="#">Sign Up</a></li>
-                    <li className="link"><a href="#">CodeRay Editor</a></li>
+                    <li className="link highlighted"><a href="#">CodeRay Editor</a></li>
                 </div>
             </div>
             
